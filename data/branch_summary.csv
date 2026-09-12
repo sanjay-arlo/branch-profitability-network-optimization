@@ -1,0 +1,6 @@
+branch_id,branch_name,annual_revenue,annual_operating_profit,operating_margin_pct
+B001,Central,12840000,1540800,12.0
+B002,North,10950000,1423500,13.0
+B003,South,9700000,776000,8.0
+B004,East,11600000,1276000,11.0
+B005,West,8300000,498000,6.0
